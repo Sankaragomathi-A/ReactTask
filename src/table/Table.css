@@ -1,0 +1,68 @@
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: none;
+    width: 80%;
+
+    
+
+  }
+  #tableHeader{
+    width:  80%;
+    margin: auto;
+    background-color: #afafaf;
+    margin-top: 40px;
+    text-align: center;
+  }
+  .tableTr{
+    width:  80%;
+    margin: auto;
+    /* background-color: #afafaf; */
+    margin-top: 30px;
+    text-align: center;
+   
+  }
+  table td{
+   padding-left: 70px;
+   padding-right: 100px;
+  }
+  .action{
+    padding: 0;
+    padding-left: 35px;
+  }
+  
+  #customers td, #customers th {
+    /* border: 1px solid #ddd; */
+    padding: 20px;
+    
+  }
+
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #afafaf;
+    color: black;
+
+  }
+  .add-user{
+      margin-left: 90%;
+      padding: 5px;
+      margin-top: 200px;
+      
+  }
+  .modal{
+    width: 60%;
+    margin: auto;
+  }
+  .cus-table{
+    position: relative;
+    
+  }
+  .adduserList{
+    position: absolute;
+    background-color: #afafaf;
+  }
+  
